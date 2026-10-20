@@ -1,3 +1,4 @@
+I made my writing website with Phamtom for the first time! It's nothing showstopping but I did want you to check it out.
 Phantom by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
